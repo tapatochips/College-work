@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme used by MaterialAlertDialogBuilder in MainActivity for the add/edit item dialogs. -->
+    <style name="AppDialogTheme" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/card_background</item>
+    </style>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Required for SmsHelper.sendSms / sendTestNotification / low-stock alerts -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.InventoryManagementAppKotlin">
+
+        <!-- Launcher: LoginActivity forwards to MainActivity when a session exists -->
+        <activity
+            android:name="com.inventory.app.activities.LoginActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.InventoryManagementAppKotlin">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.inventory.app.activities.MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.InventoryManagementAppKotlin" />
+
+        <activity
+            android:name="com.inventory.app.activities.SmsSettingsActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.InventoryManagementAppKotlin" />
+
+    </application>
+
+</manifest>
