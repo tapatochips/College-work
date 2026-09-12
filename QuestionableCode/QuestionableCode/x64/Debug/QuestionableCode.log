@@ -1,0 +1,7 @@
+﻿  QuestionableCode.cpp
+C:\Users\richm\source\repos\QuestionableCode\QuestionableCode.cpp(52,9): warning C4297: 'MySpecialType::DontThrow': function assumed not to throw an exception but does
+      C:\Users\richm\source\repos\QuestionableCode\QuestionableCode.cpp(52,9):
+      __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+C:\Users\richm\source\repos\QuestionableCode\QuestionableCode.cpp(129,5): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  QuestionableCode.vcxproj -> C:\Users\richm\source\repos\QuestionableCode\x64\Debug\QuestionableCode.exe

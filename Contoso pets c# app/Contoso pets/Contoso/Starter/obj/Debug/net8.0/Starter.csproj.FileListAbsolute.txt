@@ -1,0 +1,14 @@
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\bin\Debug\net8.0\Starter.exe
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\bin\Debug\net8.0\Starter.dll
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\bin\Debug\net8.0\Starter.pdb
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\obj\Debug\net8.0\Starter.dll
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\obj\Debug\net8.0\Starter.pdb
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\richm\Contoso pets c# app\Contoso pets\Contoso\Starter\obj\Debug\net8.0\ref\Starter.dll
